@@ -7,8 +7,6 @@
 * [Upload bagi Menggunakan Word menjadi PDF](#Upload-Word-to-PDF)
     
 
-[GitHub Pages](https://pages.github.com/)
-
 # Upload bagi yang tulis tangan <a name="Tulis-Tangan"></a>
 
 1. Download `camscanner` di [PlayStore](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=in&gl=US)
