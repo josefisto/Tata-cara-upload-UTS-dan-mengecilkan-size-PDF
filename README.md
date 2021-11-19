@@ -5,7 +5,7 @@
   - [Mengecilkan Ukuran File PDF](#Resize-PDF)
   - [Mengupload File atau Folder di Google Drive](#Upload-Di-Google-Drive)
 * [Upload bagi Menggunakan Word menjadi PDF](#Upload-Word-to-PDF)
-    * [Instalasi GIT](#instalasi-git)
+    
 
 [GitHub Pages](https://pages.github.com/)
 
