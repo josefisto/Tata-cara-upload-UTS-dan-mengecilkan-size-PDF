@@ -5,6 +5,7 @@
   - [Mengecilkan Ukuran File PDF](#Resize-PDF)
   - [Mengupload File atau Folder di Google Drive](#Upload-Di-Google-Drive)
 * [Upload bagi Menggunakan Word menjadi PDF](#Upload-Word-to-PDF)
+
     
 
 # Upload bagi yang tulis tangan <a name="Tulis-Tangan"></a>
@@ -57,7 +58,9 @@
   <img src="https://user-images.githubusercontent.com/72792261/142569994-fa14e8fa-9378-45ed-809c-c35ce3c7b917.png" alt="7.5">
 </p>
 
-9. Jika sudah maka akan tertampil tempat pdf tersimpan
+
+9. Jika sudah maka akan tertampil tempat pdf tersimpan <a name="Step-Langkah-9"></a>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72792261/142569996-6d7c5f3a-3d45-4486-809f-4eef7220e1e5.png" alt="8">
 </p>
@@ -70,7 +73,7 @@
 
 #### Mengecilkan Ukuran File PDF <a name="Resize-PDF"></a>
 10. Selanjutnya adalah tata cara untuk mengecilkan size file PDF atau Reduce file PDF bisa mengklik pada tautan link di bawah.
-`https://bigpdf.11zon.com/en/compress-pdf/compress-pdf-to-500kb.php`
+`https://bigpdf.11zon.com/en/compress-pdf/compress-pdf-to-500kb.php` atau [Reduce File PDF 500 KB](https://bigpdf.11zon.com/en/compress-pdf/compress-pdf-to-500kb.php)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jika sudah selanjutnya klik `Select File` untuk mengambil file pdf yang akan kita kurangi ukurannya atau size file PDF
    
@@ -78,7 +81,7 @@
   <img src="https://user-images.githubusercontent.com/72792261/142569998-9502e496-548a-498c-9b85-c2756cf14aac.png" alt="10">
 </p>
 
-11. Pilih file PDF yang ada di file Download sebelumnya `(step ke 9)`
+11. Pilih file PDF yang ada di file Download sebelumnya [Langkah ke 9](#Step-Langkah-9)
     
     Pada step ini saya ambil file contoh dengan ukuran 1mb atau keatasnya
 <p align="center">
